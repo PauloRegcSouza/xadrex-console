@@ -1,4 +1,4 @@
-﻿namespace xadrex_console.tabuleiro
+﻿namespace tabuleiro
 {
     class Posicao
     {
