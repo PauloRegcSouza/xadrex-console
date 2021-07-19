@@ -23,7 +23,7 @@
             return pecas[pos.Linha, pos.Coluna];
         }
 
-        public void existePeca(Posicao pos)
+        public bool existePeca(Posicao pos)
         {
             validarPosicao(pos);
             return peca(pos) != null;
