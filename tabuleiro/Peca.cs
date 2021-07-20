@@ -42,5 +42,10 @@
         {
             QtdMovimentos++;
         }
+
+        public void decrementarQtdMovimentos()
+        {
+            QtdMovimentos--;
+        }
     }
 }
