@@ -82,7 +82,7 @@ namespace xadrez
                 mat[pos.Linha, pos.Coluna] = true;
             }
 
-            // #Jogada especial Roque
+            // #Jogadaespecial Roque
             if(QtdMovimentos == 0 && !Partida.Xeque)
             {
                 //Roque Pequeno
